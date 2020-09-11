@@ -93,3 +93,101 @@ https://validator.w3.org/
 https://www.maujor.com/tutorial/acessibilidade-na-html5.php
 
 https://www.youtube.com/watch?time_continue=374&v=kCnAYpgau1w&feature=emb_logo
+
+---
+---
+
+# Basic HTML
+
+- https://freecodecamp.org
+
+## Tags
+
+- Títulos
+
+`h1` `h2` `h3` `h4` `h5` `h6` `p`
+
+<h1>Título nível 1</h1>
+<h2>Título nível 2</h2>
+<h3>Título nível 3</h3>
+<h4>Título nível 4</h4>
+<h5>Título nível 5</h5>
+<h6>Título nível 6</h6>
+<p>parágrafo</p>
+
+ <!--Tags
+    HTML5 introduces more descriptive HTML tags. These include main, header, footer, nav, video, article, section and others. These tags give a descriptive structure to your HTML, make your HTML easier to read, and help with Search Engine Optimization (SEO) and accessibility. The main HTML5 tag helps search engines and other developers find the main content of your page.
+-->
+
+`main, header, footer, nav, video, article, section`
+
+---
+
+- Adicionando imagens
+
+`img` 
+
+atributo
+
+`src`
+
+`<img src="https://www.your-image-source.com/your-image.jpg" alt="Author standing on a beach with two thumbs up.">`
+
+--- 
+
+- Adicionando links
+
+`a`
+
+atributo
+
+`href`
+
+`<a href="https://freecodecamp.org">this links to freecodecamp.org</a>`
+
+--- 
+
+`<!-- Comentário -->`
+
+--- 
+
+- Lista ordenada
+
+`<ol>`
+
+<ol>
+    <li>jump</li>
+    <li>milk</li>
+    <li>mouse</li>
+</ol>
+    
+- Lista não ordenada
+
+`<ul>`
+
+<ul>
+    <li>jump</li>
+    <li>milk</li>
+    <li>mouse</li>
+</ul>
+
+
+- Elementos da lista
+
+`<li>`
+
+--- 
+
+- Web form
+
+`<form>`
+
+`<input type="text">`
+
+`placeholder="">`
+
+`<button>`
+
+
+
+
